@@ -1,0 +1,9 @@
+sport,forecast fit,horizon,test trades,P&L per contract after fee (c),t (by match)
+CS2,feed as received,10 s,11,-0.13195227272727297,-0.4407053107628337
+CS2,feed as received,30 s,145,0.32185586206896577,0.6217646443730006
+CS2,feed 2.5 s earlier,10 s,38,1.670298684210526,1.896490540491602
+CS2,feed 2.5 s earlier,30 s,230,0.35015586956521727,1.0631257560530354
+MLB,feed as received,10 s,6,-0.5348250000000004,
+MLB,feed as received,30 s,0,,
+MLB,feed 0.2 s earlier,10 s,6,-0.5348250000000004,
+MLB,feed 0.2 s earlier,30 s,0,,

@@ -1,0 +1,9 @@
+sport,version,break-even volume,95% CI,unit
+CS2,tape only,0.0,"[0.00, 11.26]",% of in-play volume
+CS2,feed as received,10.543032466749569,"[1.64, 15.84]",% of in-play volume
+CS2,feed k s earlier,13.073368126480995,"[5.30, 16.08]",% of in-play volume
+CS2,Part 5 model,9.624128170775924,"[4.39, 12.36]",% of in-play volume
+MLB,tape only,0.0,"[0.00, 1,947,172.44]",contracts
+MLB,feed as received,1278718.4881972373,"[0.00, 7,999,404.33]",contracts
+MLB,feed k s earlier,1278150.6280756574,"[0.00, 10,288,379.51]",contracts
+MLB,Part 5 model,1243302.6916346357,"[0.00, 5,966,171.88]",contracts

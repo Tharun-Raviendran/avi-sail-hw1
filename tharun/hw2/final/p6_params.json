@@ -1,0 +1,14 @@
+{
+ "CS2": {
+  "w_beter": 0.35,
+  "pull_suspended": true,
+  "size_q": 0.7,
+  "one_sided": true,
+  "beta": 2.0
+ },
+ "MLB": {
+  "pull_betstop": true,
+  "size_q": 0.9,
+  "one_sided": false
+ }
+}

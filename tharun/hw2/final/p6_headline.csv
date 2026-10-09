@@ -1,0 +1,7 @@
+sport,headline,extra break-even volume,95% CI (paired),share of bootstraps > 0
+CS2,feed as received − tape only,+10.54 pp of in-play volume,"[+0.00, +15.12]",97%
+CS2,faster feed − feed as received,+2.53 pp of in-play volume,"[-0.26, +5.09]",56%
+CS2,Part 5 model − feed as received,-0.92 pp of in-play volume,"[-4.20, +3.74]",30%
+MLB,feed as received − tape only,"+1,278,718.49 contracts","[+0.00, +6,246,143.09]",81%
+MLB,faster feed − feed as received,-567.86 contracts,"[-20,345.73, +2,327,499.35]",80%
+MLB,Part 5 model − feed as received,"-35,415.80 contracts","[-5,478,896.52, +3,092,055.30]",37%
